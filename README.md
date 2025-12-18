@@ -1,5 +1,5 @@
 
-# 🌍 A Perspective on Healthcare Technologies about the Application of Sociodemographic Variables to Forecast the Worldwide Burden of Mental Health
+# A Perspective on Healthcare Technologies about the Application of Sociodemographic Variables to Forecast the Worldwide Burden of Mental Health
 
 **MSc in Computing in Healthcare Innovation and Technology**  
 **Atlantic Technological University (ATU), Donegal, Ireland**
